@@ -1,2 +1,2 @@
-# funeraria-elma-tao
+# funeraria-eternidad
 Web de una funeraria (maqueta)
